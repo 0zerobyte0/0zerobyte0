@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=kila&color=auto&height=250&section=header&text=SHERVIN%20SYSTEMS&fontSize=70&animation=rect&fontAlignY=40" width="100%" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Full-stack+Architecture;Rust+Core+Engineer;System+Optimization;Cloud+Native+Solutions" alt="Typing SVG" />
   
@@ -25,23 +24,8 @@
 
 ---
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="55%" valign="top">
-        <h3 align="center">🛠 System Metrics</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=shervin1234&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%" />
-      </td>
-      <td width="45%" valign="top">
-        <h3 align="center">🧬 Tech Genome</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shervin1234&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 
----
 
 ### 📈 Activity Pulse
 <div align="center">
